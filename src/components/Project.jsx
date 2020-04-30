@@ -5,14 +5,18 @@ import { Icon } from 'semantic-ui-react';
 import Link from '../styledComponents/Link';
 import IconLink from './IconLink';
 import TechnologyList from './TechnologyList';
+import ArrowAnimation from '../styledComponents/ArrowAnimation';
 
 export default ({ name, link, description, technologies, sourceCodeUrl }) => {
+    
     return (
-        <div>
-            <Link href={link} target="_blank" rel="noopener noreferrer">
-                {name}
-                <Icon name="arrow right"  style={{marginLeft: '0.5em'}}/>
-            </Link>
+        <div data-aos="fade-up">
+            <ArrowAnimation>
+                <Link href={link} target="_blank" rel="noopener noreferrer" className="link">
+                    {name}
+                    <Icon name="arrow right" className="arrow" />
+                </Link>
+            </ArrowAnimation>
             <div style={{marginTop: '1.6em'}}></div>
             <TechnologyList technologies={technologies} />
             <div style={{marginTop: '1em'}} />

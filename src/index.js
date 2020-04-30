@@ -1,9 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import 'semantic-ui-css/semantic.min.css'
+
+AOS.init({
+  duration: 400,
+  once: true
+});
 
 ReactDOM.render(
   <React.StrictMode>
