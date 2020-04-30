@@ -4,6 +4,8 @@ import Introduction from '../components/Introduction';
 import ExperienceList from '../components/ExperienceList';
 import FeaturedProjectList from '../components/FeaturedProjectList';
 import ProjectList from '../components/ProjectList';
+import SkillList from '../components/SkillList';
+import Footer from '../components/Footer';
 
 export default () => {
 
@@ -13,6 +15,8 @@ export default () => {
             <ExperienceList />
             <FeaturedProjectList />
             <ProjectList />
+            <SkillList />
+            <Footer />
         </div>
     )
 }

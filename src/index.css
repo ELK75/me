@@ -6,6 +6,13 @@
 
 #root {
   height: 100%;
+  font-size: 12px;
+}
+
+@media only screen and (min-width: 600px) {
+  #root {
+    font-size: 15px;
+  }
 }
 
 body {

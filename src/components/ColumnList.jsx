@@ -13,7 +13,7 @@ export default (props) => {
             <ColumnWrapper>
                 <Grid stackable columns={2}>
                     <Grid.Column width={4}>
-                        <Text color={"var(--color-secondary)"} weight="400" fontSize="1.5em">{columnText}</Text>
+                        <Text color={"var(--color-secondary)"} weight="400" size="md">{columnText}</Text>
                     </Grid.Column>
                     <Grid.Column width={12}>
                         {props.children}

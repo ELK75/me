@@ -5,6 +5,7 @@ export default styled.div`
     display: inline-block;
     border-radius: 3px;
     margin-right: 0.5rem;
+    margin-bottom: 1em;
     padding: 0.2rem 0.6rem;
     background: transparent;
     color: var(--color-secondary);

@@ -22,7 +22,7 @@ export default () => {
     ]
 
     return (
-        <div style={{ marginTop: '8em' }}>
+        <div>
             <ColumnList columnText="Featured Project">
                 {projects.map((project, idx) => {
                     return <FeaturedProject {...project} key={idx} />
