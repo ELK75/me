@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/me/static/css/main.68d5d9eb.chunk.css",
-    "main.js": "/me/static/js/main.48c3479b.chunk.js",
-    "main.js.map": "/me/static/js/main.48c3479b.chunk.js.map",
-    "runtime-main.js": "/me/static/js/runtime-main.fd27771d.js",
-    "runtime-main.js.map": "/me/static/js/runtime-main.fd27771d.js.map",
-    "static/css/2.b73dfa83.chunk.css": "/me/static/css/2.b73dfa83.chunk.css",
-    "static/js/2.50907e81.chunk.js": "/me/static/js/2.50907e81.chunk.js",
-    "static/js/2.50907e81.chunk.js.map": "/me/static/js/2.50907e81.chunk.js.map",
-    "index.html": "/me/index.html",
-    "precache-manifest.b1a148751f83b0e8a06356ead7d63d8d.js": "/me/precache-manifest.b1a148751f83b0e8a06356ead7d63d8d.js",
-    "service-worker.js": "/me/service-worker.js",
-    "static/css/2.b73dfa83.chunk.css.map": "/me/static/css/2.b73dfa83.chunk.css.map",
-    "static/css/main.68d5d9eb.chunk.css.map": "/me/static/css/main.68d5d9eb.chunk.css.map",
-    "static/js/2.50907e81.chunk.js.LICENSE.txt": "/me/static/js/2.50907e81.chunk.js.LICENSE.txt",
-    "static/media/Elijah-Kajinic-Resume.pdf": "/me/static/media/Elijah-Kajinic-Resume.cb574f34.pdf",
-    "static/media/Partify.png": "/me/static/media/Partify.ed6fca2e.png",
-    "static/media/semantic.min.css": "/me/static/media/outline-icons.ef60a4f6.woff"
+    "main.css": "/static/css/main.68d5d9eb.chunk.css",
+    "main.js": "/static/js/main.e601fa64.chunk.js",
+    "main.js.map": "/static/js/main.e601fa64.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.17a0efde.js",
+    "runtime-main.js.map": "/static/js/runtime-main.17a0efde.js.map",
+    "static/css/2.07edca94.chunk.css": "/static/css/2.07edca94.chunk.css",
+    "static/js/2.2489b6b4.chunk.js": "/static/js/2.2489b6b4.chunk.js",
+    "static/js/2.2489b6b4.chunk.js.map": "/static/js/2.2489b6b4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8c0bc0913747a3de3f97403df9c916ca.js": "/precache-manifest.8c0bc0913747a3de3f97403df9c916ca.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.07edca94.chunk.css.map": "/static/css/2.07edca94.chunk.css.map",
+    "static/css/main.68d5d9eb.chunk.css.map": "/static/css/main.68d5d9eb.chunk.css.map",
+    "static/js/2.2489b6b4.chunk.js.LICENSE.txt": "/static/js/2.2489b6b4.chunk.js.LICENSE.txt",
+    "static/media/Elijah-Kajinic-Resume.pdf": "/static/media/Elijah-Kajinic-Resume.cb574f34.pdf",
+    "static/media/Partify.png": "/static/media/Partify.ed6fca2e.png",
+    "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.fd27771d.js",
-    "static/css/2.b73dfa83.chunk.css",
-    "static/js/2.50907e81.chunk.js",
+    "static/js/runtime-main.17a0efde.js",
+    "static/css/2.07edca94.chunk.css",
+    "static/js/2.2489b6b4.chunk.js",
     "static/css/main.68d5d9eb.chunk.css",
-    "static/js/main.48c3479b.chunk.js"
+    "static/js/main.e601fa64.chunk.js"
   ]
 }
