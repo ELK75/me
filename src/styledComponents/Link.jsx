@@ -1,9 +1,9 @@
 import styled from 'styled-components';
 
 export default styled.a`
-    font-weight: 200;
-    font-size: 1.5em;
-    color: white;
+    font-weight: ${props => props.fontWeight || "200"};
+    font-size: ${props => props.fontSize || "1.5em"};
+    color: var(--color-text);
     :hover {
         color: var(--color-secondary);
     }

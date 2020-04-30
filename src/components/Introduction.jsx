@@ -6,12 +6,13 @@ import Text from '../styledComponents/Text'
 import Bold from '../styledComponents/Bold'
 import TextContainer from '../styledComponents/TextContainer';
 import IconLink from './IconLink';
+import Emoji from './Emoji';
 
 export default () => {
     return (
         <Container style={{paddingTop: '8.5em', height: '100vh'}}>
             <TextContainer>
-                <Text fontSize="3.5em">Hi. <span role="img" aria-label="wave">👋</span></Text>
+                <Text fontSize="3.5em">Hi. <Emoji emoji="👋" description="wave" /></Text>
                 <Text fontSize="2.5em">My name is <Bold>Elijah Kajinic.</Bold></Text>
                 <Text>I am a student at the <Bold>University of Pittsburgh</Bold> graduating in <Bold>2021.</Bold></Text>
                 <Text>Feel free to explore and see what I have done or to contact me below.</Text>
