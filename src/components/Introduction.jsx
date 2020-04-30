@@ -15,7 +15,7 @@ export default () => {
             <TextContainer>
                 <Text size="xl">Hi. <Emoji emoji="👋" description="wave" /></Text>
                 <Text size="lg">My name is <Bold>Elijah Kajinic.</Bold></Text>
-                <Text size="lg">I am a student at the <Bold>University of Pittsburgh</Bold> graduating in <Bold>2021.</Bold></Text>
+                <Text size="lg">I am a student at the <Bold>University of Pittsburgh</Bold> graduating in <Bold>2021</Bold> with a degree in Computer Science.</Text>
                 <Text size="lg">Feel free to explore and see what I have done or to contact me below.</Text>
                 <div style={{ marginTop: '4em' }} />
                 <IconLink link={"mailto:elijah.kajinic@email.com"} iconName={"mail outline"}>elijah.kajinic@gmail.com</IconLink>
