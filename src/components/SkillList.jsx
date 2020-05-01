@@ -12,8 +12,8 @@ export default () => {
             <div>
                 {skills.map((skill, idx) => {
                     return (
-                        <div data-aos="fade-up">
-                            <Skill {...skill} key={idx} />
+                        <div data-aos="fade-up" key={idx}>
+                            <Skill {...skill} />
                         </div>
                     )
                 })}

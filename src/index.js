@@ -9,7 +9,8 @@ import 'semantic-ui-css/semantic.min.css'
 
 AOS.init({
   duration: 400,
-  once: true
+  once: true,
+  disable: 'mobile'
 });
 
 ReactDOM.render(
