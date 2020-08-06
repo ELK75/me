@@ -86,7 +86,7 @@ const projectList = [
 const skills = [
     {
         type: 'Languages',
-        skills: ['Python', 'Javascript', 'Java', 'C', 'HTML/CSS']
+        skills: ['Python', 'Javascript', 'Java', 'C', 'C#', 'HTML/CSS']
     },
     {
         type: 'Technologies',
