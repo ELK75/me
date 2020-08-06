@@ -8,7 +8,9 @@ const experiences = [
         company: "Microsoft",
         title: "Software Engineer Intern",
         timeWorked: "Summer 2020",
-        description: "I currently work at Microsoft on the OneDrive SharePoint Team."
+        description: `During my internship at Microsoft, I worked at improving code within Azure SQL
+                Workflows. In this time, I managed to reduce boilerplate code in various workflows
+                by up to 70% and put measures in place to ensure the protection of user privacy.`
     },
     {
         company: "Honeywell",
@@ -17,7 +19,7 @@ const experiences = [
         description: `At Honeywell I worked in both testing automation and full-stack web development. 
                 While there, I created a REST API which communicated with our 
                 in-house lab as well as internal tooling to reduce necessary data for
-                automated tests by 50%.`
+                automated tests.`
     }
 ]
 
