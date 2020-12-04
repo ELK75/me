@@ -5,6 +5,13 @@ import Partify from './assets/images/mockups/Partify.png';
 
 const experiences = [
     {
+        company: "ServiceLink",
+        title: "Data Scientist",
+        timeWorked: "Current",
+        description: `Currently working at ServiceLink utilizing Python and Optical Character
+                    Recognition to extract mortgage data.`
+    },
+    {
         company: "Microsoft",
         title: "Software Engineer Intern",
         timeWorked: "Summer 2020",
