@@ -59,14 +59,24 @@ const projectList = [
         sourceCodeUrl: 'https://github.com/ELK75/SnackCheck'
     },
     {
-        name: 'CryptoCurrency Tracker',
-        link: 'https://crypto-track.herokuapp.com/',
+        name: 'Nexter',
+        link: 'https://elk75.github.io/Nexter/',
         description:
             <Text>
-                A website that displays information of over 3000 different CryptoCurrencies through various calls to the CryptoCompare API.
-                </Text>,
-        technologies: ['React', 'Redux', 'Node', 'Express', 'Heroku'],
-        sourceCodeUrl: 'https://github.com/ELK75/Crypto_Tracker'
+                A sample real estate website.
+            </Text>,
+        technologies: ['HTML', 'CSS'],
+        sourceCodeUrl: 'https://github.com/ELK75/Nexter'
+    },
+    {
+        name: 'Trillo',
+        link: 'https://elk75.github.io/Trillo/',
+        description:
+            <Text>
+                A sample travel agency site.
+            </Text>,
+        technologies: ['HTML', 'CSS'],
+        sourceCodeUrl: 'https://github.com/ELK75/Trillo'
     },
     {
         name: 'Cooki',
@@ -74,19 +84,9 @@ const projectList = [
         description:
             <Text>
                 A website that dynamically filters and saves recipes.
-                </Text>,
+            </Text>,
         technologies: ['React', 'MongoDB'],
         sourceCodeUrl: 'https://github.com/ELK75/Cooki'
-    },
-    {
-        name: 'TutorTitan',
-        link: 'https://tutortitan.appspot.com/',
-        description:
-            <Text>
-                A Q&amp;A website that allows students to ask and answer questions from students at the same university.
-                </Text>,
-        technologies: ['React', 'Flask'],
-        sourceCodeUrl: 'https://github.com/ELK75/TutorTitan'
     }
 ]
 
