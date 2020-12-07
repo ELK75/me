@@ -73,7 +73,7 @@ const projectList = [
         link: 'https://elk75.github.io/Trillo/',
         description:
             <Text>
-                A sample travel agency site.
+                A sample travel website.
             </Text>,
         technologies: ['HTML', 'CSS'],
         sourceCodeUrl: 'https://github.com/ELK75/Trillo'
@@ -83,7 +83,7 @@ const projectList = [
         link: 'https://cooki.now.sh',
         description:
             <Text>
-                A website that dynamically filters and saves recipes.
+                A website that dynamically filters and saves recipes to help those with allergies and dietary restrictions.
             </Text>,
         technologies: ['React', 'MongoDB'],
         sourceCodeUrl: 'https://github.com/ELK75/Cooki'
