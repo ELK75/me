@@ -64,7 +64,7 @@ const projectList = [
         description:
             <Text>
                 A sample real estate website.
-            </Text>
+            </Text>,
         technologies: ['HTML', 'CSS'],
         sourceCodeUrl: 'https://github.com/ELK75/Nexter'
     },
