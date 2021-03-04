@@ -64,7 +64,7 @@ const projectList = [
         description:
             <Text>
                 A sample real estate website.
-            </Text>,
+            </Text>
         technologies: ['HTML', 'CSS'],
         sourceCodeUrl: 'https://github.com/ELK75/Nexter'
     },
@@ -76,7 +76,7 @@ const projectList = [
                 A sample travel website.
             </Text>,
         technologies: ['HTML', 'CSS'],
-        sourceCodeUrl: 'https://github.com/ELK75/Trillo'
+        sourceCodeUrl: 'https://github.com/ELTrillo'
     },
     {
         name: 'Cooki',

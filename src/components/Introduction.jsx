@@ -16,8 +16,7 @@ export default () => {
                 <Text size="xl">Hi. <Emoji emoji="👋" description="wave" /></Text>
                 <Text size="lg">My name is <Bold>Elijah Kajinic.</Bold></Text>
                 <Text size="lg">
-                    I'm a <Bold>Computer Science</Bold> student at the <Bold>University of Pittsburgh</Bold> graduating in <Bold>2021 </Bold>
-                     and an incoming full-time employee at <Bold>Microsoft</Bold> in <Bold>Seattle</Bold>.
+                    I'm a <Bold>Computer Science</Bold> student at the <Bold>University of Pittsburgh</Bold> graduating in <Bold>2021</Bold>.
                 </Text>
                 <Text size="lg">Currently, I work as a Data Scientist at <Bold>ServiceLink</Bold> in <Bold>Pittsburgh</Bold>.</Text>
                 <div style={{ marginTop: '4em' }} />
