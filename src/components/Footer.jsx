@@ -2,6 +2,7 @@ import React from 'react'
 
 import { Container } from 'semantic-ui-react';
 import IconLink from './IconLink';
+import Text from '../styledComponents/Text'
 
 export default () => {
 
@@ -46,6 +47,9 @@ export default () => {
                     })
                 }
             </div>
+          <div style={{ textAlign: 'center' }}>
+          <Text>Website Design Inspired by <a href="https://brittanychiang.com/">Brittany Chiang</a></Text>
+          </div>
         </Container>
     )
 }

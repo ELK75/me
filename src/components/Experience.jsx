@@ -6,12 +6,12 @@ import Text from '../styledComponents/Text';
 export default ({company, title, timeWorked, description}) => {
     return (
         <Grid>
-            <Grid.Column width={10}>
+            <Grid.Column width={8}>
                 <Text size="md" weight="400">{company}</Text>
                 <Text size="md" style={{ marginTop: '-1em' }}>{title}</Text>
             </Grid.Column>
 
-            <Grid.Column width={6} floated='right'>
+            <Grid.Column width={8} floated='right'>
                 <Text size="md" style={{float: 'right'}}>{timeWorked}</Text>
             </Grid.Column>
 

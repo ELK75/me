@@ -7,8 +7,8 @@ const experiences = [
     {
         company: "ServiceLink",
         title: "Data Scientist",
-        timeWorked: "Current",
-        description: `Currently working at ServiceLink utilizing Python and Optical Character
+      timeWorked: "October 2020 - June 2021",
+        description: `Worked at ServiceLink utilizing Python and Optical Character
                     Recognition to extract mortgage data.`
     },
     {
@@ -57,36 +57,6 @@ const projectList = [
             </div>,
         technologies: ['React Native'],
         sourceCodeUrl: 'https://github.com/ELK75/SnackCheck'
-    },
-    {
-        name: 'Nexter',
-        link: 'https://elk75.github.io/Nexter/',
-        description:
-            <Text>
-                A sample real estate website.
-            </Text>,
-        technologies: ['HTML', 'CSS'],
-        sourceCodeUrl: 'https://github.com/ELK75/Nexter'
-    },
-    {
-        name: 'Trillo',
-        link: 'https://elk75.github.io/Trillo/',
-        description:
-            <Text>
-                A sample travel website.
-            </Text>,
-        technologies: ['HTML', 'CSS'],
-        sourceCodeUrl: 'https://github.com/ELTrillo'
-    },
-    {
-        name: 'Cooki',
-        link: 'https://cooki.now.sh',
-        description:
-            <Text>
-                A website that dynamically filters and saves recipes to help those with allergies and dietary restrictions.
-            </Text>,
-        technologies: ['React', 'MongoDB'],
-        sourceCodeUrl: 'https://github.com/ELK75/Cooki'
     }
 ]
 
