@@ -9,3 +9,4 @@
 ## Guide to Updating
 * Change the data stored in ./src/data.jsx
 * Run ./deploy.sh "commit message"
+* Changes should appear in eli-k.com
