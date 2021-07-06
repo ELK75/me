@@ -48,7 +48,7 @@ export default () => {
                 }
             </div>
           <div style={{ textAlign: 'center' }}>
-          <Text>Website Design Inspired by <a href="https://brittanychiang.com/">Brittany Chiang</a></Text>
+            <Text>Website Design Inspired by <a href="https://brittanychiang.com/">Brittany Chiang</a></Text>
           </div>
         </Container>
     )
