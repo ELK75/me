@@ -5,9 +5,16 @@ import Partify from './assets/images/mockups/Partify.png';
 
 const experiences = [
     {
+        company: "Microsoft",
+        title: "Software Engineer",
+        timeWorked: "July 2021 - Current",
+        description: `Currently working on turning Microsoft Lists into a Progressive Web Application by allowing for full
+            offline capabilities.`
+    },
+    {
         company: "ServiceLink",
         title: "Data Scientist",
-      timeWorked: "October 2020 - June 2021",
+        timeWorked: "October 2020 - June 2021",
         description: `Worked at ServiceLink utilizing Python and Optical Character
                     Recognition to extract mortgage data.`
     },

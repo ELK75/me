@@ -4,8 +4,6 @@ import Experience from './Experience';
 import IconLink from './IconLink';
 import ColumnList from './ColumnList';
 
-import Resume from '../downloads/Elijah-Kajinic-Resume.pdf';
-
 import { experiences } from '../data';
 
 export default () => {
@@ -20,7 +18,7 @@ export default () => {
                     )
                 })}
                 <div style={{ marginTop: '4em' }}>
-                    <IconLink link={Resume} iconName="file outline" newTab>See My Resume (pdf)</IconLink>
+                    <IconLink link={`https://drive.google.com/file/d/19cutPtmfblBIhBaPi7OQvOuqtX2VBJZD/view?usp=sharing`} iconName="file outline" newTab>See My Resume (pdf)</IconLink>
                 </div>
             </ColumnList>
         </div>

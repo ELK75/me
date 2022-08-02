@@ -1,28 +1,17 @@
 {
-  "files": {
-    "main.css": "/static/css/main.7b751fdc.chunk.css",
-    "main.js": "/static/js/main.ed923342.chunk.js",
-    "main.js.map": "/static/js/main.ed923342.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.17a0efde.js",
-    "runtime-main.js.map": "/static/js/runtime-main.17a0efde.js.map",
-    "static/css/2.07edca94.chunk.css": "/static/css/2.07edca94.chunk.css",
-    "static/js/2.416c76c6.chunk.js": "/static/js/2.416c76c6.chunk.js",
-    "static/js/2.416c76c6.chunk.js.map": "/static/js/2.416c76c6.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.ffdc913eb807f12cf3d075480a0346e7.js": "/precache-manifest.ffdc913eb807f12cf3d075480a0346e7.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.07edca94.chunk.css.map": "/static/css/2.07edca94.chunk.css.map",
-    "static/css/main.7b751fdc.chunk.css.map": "/static/css/main.7b751fdc.chunk.css.map",
-    "static/js/2.416c76c6.chunk.js.LICENSE.txt": "/static/js/2.416c76c6.chunk.js.LICENSE.txt",
-    "static/media/Elijah-Kajinic-Resume.pdf": "/static/media/Elijah-Kajinic-Resume.ca23cce6.pdf",
-    "static/media/Partify.png": "/static/media/Partify.ed6fca2e.png",
-    "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.17a0efde.js",
-    "static/css/2.07edca94.chunk.css",
-    "static/js/2.416c76c6.chunk.js",
-    "static/css/main.7b751fdc.chunk.css",
-    "static/js/main.ed923342.chunk.js"
-  ]
+  "main.css": "/static/css/main.0e762da3.chunk.css",
+  "main.js": "/static/js/main.2eaf2d54.chunk.js",
+  "main.js.map": "/static/js/main.2eaf2d54.chunk.js.map",
+  "static/css/1.df52b3f9.chunk.css": "/static/css/1.df52b3f9.chunk.css",
+  "static/js/1.e0843cdb.chunk.js": "/static/js/1.e0843cdb.chunk.js",
+  "static/js/1.e0843cdb.chunk.js.map": "/static/js/1.e0843cdb.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/media/Partify.png": "/static/media/Partify.ed6fca2e.png",
+  "static/media/semantic.min.css": "/static/media/outline-icons.ad97afd3.ttf",
+  "static/css/1.df52b3f9.chunk.css.map": "/static/css/1.df52b3f9.chunk.css.map",
+  "static/css/main.0e762da3.chunk.css.map": "/static/css/main.0e762da3.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.4d98011acebe54ffb595eb8586d95b02.js": "/precache-manifest.4d98011acebe54ffb595eb8586d95b02.js",
+  "service-worker.js": "/service-worker.js"
 }
